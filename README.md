@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LUVIPUSPITA
+- 👋 Hi, I’m @luvipuspita
 - 👀 I’m interested in Data Science field
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Company Project
